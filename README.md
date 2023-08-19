@@ -22,5 +22,3 @@
   <a href="https://www.linkedin.com/in/liandra-meirelles-68586420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/liandra.meirelles.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/MeirellesDEV/MeirellesDEV/blob/output/github-contribution-grid-snake.svg)
